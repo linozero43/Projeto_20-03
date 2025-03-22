@@ -12,3 +12,4 @@ C:\Users\FIC\Documents\Lino\Projeto\obj\Debug\net9.0\refint\Projeto.dll
 C:\Users\FIC\Documents\Lino\Projeto\obj\Debug\net9.0\Projeto.pdb
 C:\Users\FIC\Documents\Lino\Projeto\obj\Debug\net9.0\Projeto.genruntimeconfig.cache
 C:\Users\FIC\Documents\Lino\Projeto\obj\Debug\net9.0\ref\Projeto.dll
+C:\Users\FIC\Documents\Lino\Projeto\obj\Debug\net9.0\Projeto.sourcelink.json
